@@ -13,6 +13,21 @@ Save models folder contains the models and train log which achieves 85 percent a
 Models are stored with epoch number and accuracy as the file name.
 
 
+Requirements
+
+Python 3.7
+Numpy 1.16.2
+Pandas 0.24.2
+Pickle
+tqdm 4.31.1
+sklearn 0.21.3
+Scipy 1.2.1
+opencv-python 4.1.0.25
+PyWavelets 1.0.2
+pytorch >= 1.1
+torchvision >= 0.40
+
+
 Please cite the code owner if ever used in other premises.
 Shadrach Simon Sundar
 M.Eng Deggendorf Institute of Technology
